@@ -8,3 +8,6 @@ More general use requires more abstraction.
 
 This is the preceding code for learning AlphaGo.
 
+MCTS_utc.ipynb is a file for google's colab.
+mcts directory contains files for the python environment.
+
